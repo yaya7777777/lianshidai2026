@@ -45,11 +45,11 @@ env/
 *.yml
 
 # Model files
-*.pth
-*.pt
-*.pkl
-*.h5
-*.pb
+# *.pth
+# *.pt
+# *.pkl
+# *.h5
+# *.pb
 
 # Image files
 # *.png
