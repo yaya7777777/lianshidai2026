@@ -52,12 +52,12 @@ env/
 *.pb
 
 # Image files
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.tiff
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.bmp
+# *.tiff
 
 # OS files
 .DS_Store
